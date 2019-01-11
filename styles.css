@@ -1,0 +1,111 @@
+/* requete @media*/
+
+* {
+    list-style-type: none;
+    text-decoration: none;
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    color: #0F0F0F;
+}
+
+ul {
+    position: fixed;
+    display: block;
+    width: 100%;
+    text-align: right;
+    background-color: #404040;
+}
+
+li {
+    display: inline-block;
+    margin: 55px;
+    margin-bottom: 15px;
+    margin-top: 60px;
+}
+
+#color-navbar {
+    color: aliceblue;
+    font-weight: bold;
+    font-size: 17px;
+}
+
+#welcome-section {
+    padding-top: 400px;
+    background-color: #CCDFFF;
+    height: 60vh;
+    text-align: center
+}
+
+h1 {
+    margin-bottom: 100px;
+    font-size: 50px;
+}
+
+p {
+    font-size: 20px;
+}
+
+#project {
+    background-color: #ADCBFF;
+    height: 65vh;
+}
+
+.project-tile {
+    width: 60vw;
+    margin: auto;
+    padding-top: 10vh;
+}
+
+#PosP {
+    display: flex;
+}
+
+#color-project {
+    display: block;
+    background-color: #CCDFFF;
+    ;
+    width: 350px;
+    height: 200px;
+    margin: 0 9%;
+    margin-bottom: 50px;
+    border: 4px solid #404040;
+    border-radius: 15px;
+
+}
+
+div a p {
+    margin-bottom: 00px;
+    color: #404040;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+#Taille-img {
+    width: 100%;
+    height: 80%;
+    border-radius: 15px;
+}
+
+footer {
+    height: 15vh;
+    background-color: #404040;
+
+}
+
+#contact {
+    display: flex;
+
+}
+
+footer div a {
+    margin: 2vh auto;
+}
+
+i {
+    background-color: aliceblue;
+    padding: 20px;
+    font-size: 60px;
+    border-radius: 50%
+}
